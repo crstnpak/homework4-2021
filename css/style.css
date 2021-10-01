@@ -40,10 +40,10 @@ body{
 }
 
 h1{
-  color: #c12258;
+  color: #C12258;
   font-size: 32px;
   text-align: center;
-  line-height: 2;
+  line-height: 200%;
 
 
   /*Req 2*/
@@ -54,7 +54,7 @@ p{
 }
 
 a{
-  color: #C12258;
+  color: #B21F50;
   font-size: 16px;
   text-decoration-line: underline;
   text-decoration-style: wavy;
@@ -84,7 +84,7 @@ td{
   align-items: center;
   text-align:center;
   vertical-align: middle;
-  justify-content: center;
+  justify-items: center;
   text-transform: uppercase;
   background-color: #7e0825;
 }
