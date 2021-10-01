@@ -133,6 +133,13 @@ thead tr:first-child th:first-child{
   border-radius: 50px 0px 0px 0px;
 }
 
+tbody tr:nth-child(10) td:nth-child(7){
+  border-radius: 0px 0px 50px 0px;
+}
+ 
+tbody tr:nth-child(10) th{
+  border-radius: 0px 0px 0px 50px;
+}
 
 footer{
   width:100%;
